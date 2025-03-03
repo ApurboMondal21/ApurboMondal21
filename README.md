@@ -2,8 +2,8 @@
   <h1 style="margin: 0;">Hi 👋, I'm Apurbo Mondal</h1>
 <div>
   <img 
-    align="center" 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst;Business+Analyst;Product+Management;Project+Management;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG">
+    align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;
+    src="<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Data+Analyst;Business+Analyst;Product+Management;Project+Management;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" ">
 </div>
 
 </div>
