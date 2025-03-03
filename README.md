@@ -12,42 +12,42 @@
 I'm excited to launch my career in the field of computer science.
 
 # 💻 Tech Stack
-### 💻 Programming Languages
+# 💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" /> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" />
 </p>
-### 🌐 Frontend Development
+🌐 Frontend Development
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" />
 </p>
-### 🛢 Database
+🛢 Database
 <p>
 <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
 </p>
-### ☁️ Cloud & Hosting
+☁️ Cloud & Hosting
 <p>
 <img src="https://img.shields.io/badge/AWS-333333?style=flat&logo=aws" alt="AWS" />
 </p>
-### 🔧 DevOps & CI/CD
+🔧 DevOps & CI/CD
 <p>
 <img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat&logo=github-actions" alt="GitHub Actions" />
 </p>
 
-# 🌱 Currently Learning
+🌱 Currently Learning
 
 - Front End Development
 
-# 💻 Workspace Specs
+💻 Workspace Specs
 
-### Operating Systems
+# Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white)
 
-### Tools
+# Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
 
-### Browsers
+# Browsers
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
 
