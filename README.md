@@ -1,9 +1,12 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Apurbo Mondal</h1>
-<div>
-  <img 
-    align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;
-    src="<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Data+Analyst;Business+Analyst;Product+Management;Project+Management;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" ">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <a href="https://git.io/typing-svg"> 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Data+Analyst;Business+Analyst;Product+Management;Project+Management;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG">
+    </a>
+</div>
+  </a>
+</div>
 </div>
 
 </div>
@@ -59,9 +62,6 @@ I'm excited to launch my career in the field of computer science. With a strong 
 
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ApurboMondal21&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=ApurboMondal21&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 </p>
 <p>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ApurboMondal21&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
