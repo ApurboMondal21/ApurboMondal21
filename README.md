@@ -9,7 +9,7 @@
 
 # About Me
 
-I'm excited to launch my career in the field of computer science.
+I'm excited to launch my career in the field of computer science. With a strong foundation in programming languages like C++ and Python, complemented by extensive knowledge of machine learning, data science, and artificial intelligence. Alongside technical expertise, strong communication skills enable effective collaboration and presentation of ideas. Passionate about problem-solving and innovation, eager to tackle complex challenges and contribute to impactful solutions.
 
 # 💻 Tech Stack
 # 💻 Programming Languages
@@ -46,6 +46,9 @@ I'm excited to launch my career in the field of computer science.
 # Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 # Browsers
 
