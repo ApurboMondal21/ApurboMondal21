@@ -31,11 +31,3 @@ I am passionate about understanding the evolving threat landscape and contributi
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-# Browsers
-
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ApurboMondal21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
